@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="custom_marginTop">8dp</dimen>
+    <dimen name="margin_top">32dp</dimen>
+    <dimen name="video_view_height">256dp</dimen>
+    <dimen name="custom_margin_top">24dp</dimen>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeekOneAssignment</string>
+    <string name="create_a_timer">Create A Timer</string>
+    <string name="create_an_event">Create An Event</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="call">CALL</string>
+    <string name="open_video">Open Video</string>
+    <string name="gotoNext">Go Next Activity</string>
+    <string name="selectContact">Select Contact</string>
+    <string name="show_contact_number_result">Show Contact Number Result</string>
+    <string name="enter_web_search_query">Enter web search query</string>
+    <string name="search_from_web">Search From Web</string>
+</resources>
